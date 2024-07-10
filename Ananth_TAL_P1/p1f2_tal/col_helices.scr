@@ -1,0 +1,303 @@
+zap
+load nmrpdb hel_regions.pdb
+# load P1f2_n147_idt109_rot.pdb
+# restrict not (protein or water)
+
+
+#------Helix #1, color: red------
+select 1:A, 294:B
+color red
+select 2:A, 293:B
+color red
+select 3:A, 292:B
+color red
+select 4:A, 291:B
+color red
+select 5:A, 290:B
+color red
+select 6:A, 289:B
+color red
+select 7:A, 288:B
+color red
+select 8:A, 287:B
+color red
+select 9:A, 286:B
+color red
+select 10:A, 285:B
+color red
+select 11:A, 284:B
+color red
+select 12:A, 283:B
+color red
+select 13:A, 282:B
+color red
+select 14:A, 281:B
+color red
+select 15:A, 280:B
+color red
+select 16:A, 279:B
+color red
+select 17:A, 278:B
+color red
+select 18:A, 277:B
+color red
+select 19:A, 276:B
+color red
+select 20:A, 275:B
+color red
+select 21:A, 274:B
+color red
+select 22:A, 273:B
+color red
+select 23:A, 272:B
+color red
+select 24:A, 271:B
+color red
+select 25:A, 270:B
+color red
+select 26:A, 269:B
+color red
+select 27:A, 268:B
+color red
+select 28:A, 267:B
+color red
+select 29:A, 266:B
+color red
+select 30:A, 265:B
+color red
+select 31:A, 264:B
+color red
+select 32:A, 263:B
+color red
+select 33:A, 262:B
+color red
+select 34:A, 261:B
+color red
+select 35:A, 260:B
+color red
+select 36:A, 259:B
+color red
+select 37:A, 258:B
+color red
+select 38:A, 257:B
+color red
+select 39:A, 256:B
+color red
+select 40:A, 255:B
+color red
+select 41:A, 254:B
+color red
+select 42:A, 253:B
+color red
+select 43:A, 252:B
+color red
+select 44:A, 251:B
+color red
+select 45:A, 250:B
+color red
+select 46:A, 249:B
+color red
+select 47:A, 248:B
+color red
+select 48:A, 247:B
+color red
+select 49:A, 246:B
+color red
+select 50:A, 245:B
+color red
+select 51:A, 244:B
+color red
+select 52:A, 243:B
+color red
+select 53:A, 242:B
+color red
+select 54:A, 241:B
+color red
+select 55:A, 240:B
+color red
+select 56:A, 239:B
+color red
+select 57:A, 238:B
+color red
+select 58:A, 237:B
+color red
+select 59:A, 236:B
+color red
+select 60:A, 235:B
+color red
+select 61:A, 234:B
+color red
+select 62:A, 233:B
+color red
+select 63:A, 232:B
+color red
+select 64:A, 231:B
+color red
+select 65:A, 230:B
+color red
+select 66:A, 229:B
+color red
+select 67:A, 228:B
+color red
+select 68:A, 227:B
+color red
+select 69:A, 226:B
+color red
+select 70:A, 225:B
+color red
+select 71:A, 224:B
+color red
+select 72:A, 223:B
+color red
+select 73:A, 222:B
+color red
+select 74:A, 221:B
+color red
+select 75:A, 220:B
+color red
+select 76:A, 219:B
+color red
+select 77:A, 218:B
+color red
+select 78:A, 217:B
+color red
+select 79:A, 216:B
+color red
+select 80:A, 215:B
+color red
+select 81:A, 214:B
+color red
+select 82:A, 213:B
+color red
+select 83:A, 212:B
+color red
+select 84:A, 211:B
+color red
+select 85:A, 210:B
+color red
+select 86:A, 209:B
+color red
+select 87:A, 208:B
+color red
+select 88:A, 207:B
+color red
+select 89:A, 206:B
+color red
+select 90:A, 205:B
+color red
+select 91:A, 204:B
+color red
+select 92:A, 203:B
+color red
+select 93:A, 202:B
+color red
+select 94:A, 201:B
+color red
+select 95:A, 200:B
+color red
+select 96:A, 199:B
+color red
+select 97:A, 198:B
+color red
+select 98:A, 197:B
+color red
+select 99:A, 196:B
+color red
+select 100:A, 195:B
+color red
+select 101:A, 194:B
+color red
+select 102:A, 193:B
+color red
+select 103:A, 192:B
+color red
+select 104:A, 191:B
+color red
+select 105:A, 190:B
+color red
+select 106:A, 189:B
+color red
+select 107:A, 188:B
+color red
+select 108:A, 187:B
+color red
+select 109:A, 186:B
+color red
+select 110:A, 185:B
+color red
+select 111:A, 184:B
+color red
+select 112:A, 183:B
+color red
+select 113:A, 182:B
+color red
+select 114:A, 181:B
+color red
+select 115:A, 180:B
+color red
+select 116:A, 179:B
+color red
+select 117:A, 178:B
+color red
+select 118:A, 177:B
+color red
+select 119:A, 176:B
+color red
+select 120:A, 175:B
+color red
+select 121:A, 174:B
+color red
+select 122:A, 173:B
+color red
+select 123:A, 172:B
+color red
+select 124:A, 171:B
+color red
+select 125:A, 170:B
+color red
+select 126:A, 169:B
+color red
+select 127:A, 168:B
+color red
+select 128:A, 167:B
+color red
+select 129:A, 166:B
+color red
+select 130:A, 165:B
+color red
+select 131:A, 164:B
+color red
+select 132:A, 163:B
+color red
+select 133:A, 162:B
+color red
+select 134:A, 161:B
+color red
+select 135:A, 160:B
+color red
+select 136:A, 159:B
+color red
+select 137:A, 158:B
+color red
+select 138:A, 157:B
+color red
+select 139:A, 156:B
+color red
+select 140:A, 155:B
+color red
+select 141:A, 154:B
+color red
+select 142:A, 153:B
+color red
+select 143:A, 152:B
+color red
+select 144:A, 151:B
+color red
+select 145:A, 150:B
+color red
+select 146:A, 149:B
+color red
+select 147:A, 148:B
+color red
+
+select all
